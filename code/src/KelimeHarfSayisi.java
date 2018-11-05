@@ -110,8 +110,8 @@ public class KelimeHarfSayisi extends javax.swing.JFrame {
                      
         }
         
-        kelime_alani.setText("Kelime sayisi : "+kelime_sayisi);
-        harf_alani.setText("Harf sayisi : "+karakter_sayisi);
+        kelime_alani.setText("Kelime Sayisi : "+kelime_sayisi);
+        harf_alani.setText("Harf Sayisi : "+karakter_sayisi);
     }//GEN-LAST:event_gosterActionPerformed
 
     /**
